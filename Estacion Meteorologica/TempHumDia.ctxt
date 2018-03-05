@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=TempHumDia
+comment0.text=\r\n\ Clase\ TempHumDia\ que\ hereda\ TempDia\r\n\ @author\ Gonzalo\ Granizo\ 1DAW\r\n
+comment1.params=maxHum\ minHum\ minTemp\ maxTemp\ dia\ mes\ a\u00F1o
+comment1.target=TempHumDia(int,\ int,\ int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ TempHumDia\ Constructor\r\n\ Se\ llaman\ a\ los\ constructores\ de\ TempDia\ y\ se\ definen\ los\ nuevos\r\n\ @param\ maxHum\ Humedad\ maxima\r\n\ @param\ minHum\ Humedad\ minima\r\n\ @param\ minTemp\ Temperatura\ minima\r\n\ @param\ maxTemp\ Temperatura\ maxima\r\n\ @param\ dia\ \ \r\n\ @param\ mes\ \r\n\ @param\ a\u00F1o\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ Se\ muestran\ por\ pantalla\ todos\ los\ nuevos\ junto\ con\ los\ del\ anterior\ toString\r\n
+numComments=3

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=EstacionClimatica
+comment0.text=\r\n\ Clase\ EstacionClimatica\r\n\ IMPLEMENTACI\u00D3N\ PARCIAL\ DE\ CLASE\ EstacionClimatica\r\n\ @author\ Gonzalo\ Granizo\ 1DAW\r\n
+comment1.params=
+comment1.target=EstacionClimatica()
+comment1.text=\r\n\ EstacionClimatica\ Constructor\r\n\ Se\ definen\ los\ constructores\ por\ defecto\ y\ se\ crea\ una\ tabla\ de\ mediciones\ para\ a\u00F1os\ bisiestos\r\n
+comment2.params=nombre\ a\u00F1o
+comment2.target=EstacionClimatica(java.lang.String,\ int)
+comment2.text=\r\n\ EstacionClimatica\ Constructor\r\n\ Se\ definen\ los\ constructores\ para\ nuestra\ estacion\ climatica\r\n\ @param\ nombre\ de\ la\ estacion\r\n\ @param\ a\u00F1o\r\n
+comment3.params=medida
+comment3.target=boolean\ addDia(TempHumDia)
+comment3.text=\r\n\ M\u00E9todo\ addDia\r\n\ Se\ a\u00F1ade\ un\ dia\ al\ array\ mediciones\r\n\ @param\ medida\r\n\ @return\ true/false\ si\ se\ ha\ realizado\ o\ no\r\n
+comment4.params=medida
+comment4.target=boolean\ delDia(TempHumDia)
+comment4.text=\r\n\ M\u00E9todo\ delDia\r\n\ Se\ elimina\ un\ dia\ del\ array\ mediciones\r\n\ @param\ medida\r\n\ @return\ true/false\ si\ se\ ha\ realizado\ o\ no\r\n
+comment5.params=
+comment5.target=void\ listarDias()
+comment5.text=\r\n\ M\u00E9todo\ listarDias\r\n\ Se\ muestra\ por\ pantalla\ los\ datos\ de\ los\ dias\ que\ han\ sido\ a\u00F1adidos\ por\ el\ momento\ \r\n
+comment6.params=dia\ mes\ a\u00F1o
+comment6.target=boolean\ fechaOK(int,\ int,\ int)
+comment6.text=\r\n\ M\u00E9todo\ fechaOK\r\n\ Me\ indica\ si\ una\ fecha\ es\ correcta\ \r\n\ @param\ dia\r\n\ @param\ mes\r\n\ @param\ a\u00F1o\r\n\ @return\ true/false\ si\ las\ fechas\ son\ correctas\ o\ no\r\n
+comment7.params=
+comment7.target=TempHumDia\ leerMedida()
+comment7.text=\r\n\ M\u00E9todo\ leerMedida\r\n\ Me\ lee\ la\ medida\ de\ un\ dia\ en\ concreto\r\n\ @return\ los\ datos\ de\ ese\ dia\r\n
+numComments=8

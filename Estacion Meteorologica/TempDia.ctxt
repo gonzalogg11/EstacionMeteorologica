@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TempDia
+comment0.text=\r\n\ Clase\ TempHumDia\ que\ hereda\ TempDia\r\n\ @author\ Gonzalo\ Granizo\ 1DAW\r\n/**\r\n\ Clase\ TempDia\r\n\ @author\ Gonzalo\ Granizo\ 1DAW\r\n
+comment1.params=minTemp\ maxTemp\ dia\ mes\ a\u00F1o
+comment1.target=TempDia(int,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ TempDia\ Constructor\r\n\ Se\ definen\ los\ constructores\r\n\ @param\ minTemp\ Temperatura\ minima\r\n\ @param\ maxTemp\ Temperatura\ maxima\r\n\ @param\ dia\ \r\n\ @param\ mes\ \r\n\ @param\ a\u00F1o\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ Se\ muestran\ por\ pantalla\ todos\ los\ datos\r\n
+comment3.params=
+comment3.target=int\ obtenerNumDia()
+comment3.text=\r\n\ M\u00E9todo\ obtenerNumDia\r\n\ @return\ Posicion\ del\ dia\ del\ a\u00F1o\ dentro\ del\ array\ meses\r\n
+comment4.params=
+comment4.target=void\ eliminarDia()
+comment4.text=\r\n\ M\u00E9todo\ eliminarDia\r\n\ Se\ anulan\ todos\ los\ datos\ para\ eliminar\ el\ dia\r\n
+numComments=5
